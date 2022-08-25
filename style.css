@@ -1,0 +1,66 @@
+@media (max-width:767px) {
+    h1
+{
+    color: black;
+    text-align: center;
+}
+h2
+{
+  margin: 5px;
+}
+
+p{
+    padding:5px;
+    padding-top: 35px;
+    margin: 0px;
+    
+}
+
+
+.box1{
+    background-color: grey;
+    margin:20px;
+    position: absolute;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+.box2{
+    background-color: grey;
+    margin:170px 20px 20px 20px;
+    position: absolute;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    
+}
+.box3{
+    background-color: grey;
+    margin:320px 20px 20px 20px;
+    position: absolute;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    
+}
+
+.box-heading{
+
+    background-color: aquamarine;
+    position: absolute;
+    text-align: center;
+    top: -2px;
+    right:-2px;
+    width: 40%;
+    height: 25%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+
+}
+.box-content{
+    padding: 4px;
+}
+
+    
+}
